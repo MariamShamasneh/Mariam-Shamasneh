@@ -1,18 +1,21 @@
-# Hi, I'm Mariam Shamasneh 👋
+## Hi, I`m Mariam Shamasneh 
+#### Computer Engineering student at Birzeit University 
 
-🎓 Computer Engineering Student at Birzeit University
-📍 Ramallah, Palestine
+---
+```javascript
+const mariam ={
+location: "Ramallah, Palestine",
+education: "Computer Engineering @ Birzeit University",
+status: "Second-year Student",
 
-## 💻About Me
- **Second-year Computer Engineering student** at  Birzeit University.
- Passionate about **programming**,**problem solving**.
- Currently learning **Object-Oriented programming(OOP)** in java.
- 
- ## ** Languages & Tools**
- 
- - # Programming Languages: **C**,**Java**
- - # Tools & Environments: "VS Code" ,"Git" ,"Code::Blocks".
+expertise: {
+languages: ["C", "Java"],
+tools:["VS Code", "Git" ,"Code::Blocks"]
+};
 
-     ## Projects:
-   # " Student Record Management System"
-   C-based Student Record Management System using structures ,arrays, and binary file handling.
+projects=[
+
+" Student Record Management System"
+]
+};
+ ```
