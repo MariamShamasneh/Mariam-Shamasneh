@@ -11,7 +11,7 @@ status: "Second-year Student",
 
 expertise: {
 languages: ["C", "Java"],
-tools:["VS Code", "Git" ,"Code::Blocks"]
+tools:["VS Code","Code::Blocks"]
 };
 
 projects=[
